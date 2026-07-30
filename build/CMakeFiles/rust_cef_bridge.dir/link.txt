@@ -1,0 +1,2 @@
+/usr/bin/ar qc librust_cef_bridge.a CMakeFiles/rust_cef_bridge.dir/src/rust_engine_bridge.cpp.o
+/usr/bin/ranlib librust_cef_bridge.a

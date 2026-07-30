@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rust_cef_bridge_perf.dir/src/perf_main.cpp.o -o rust_cef_bridge_perf  librust_cef_bridge.a -ldl
